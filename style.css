@@ -1,0 +1,27 @@
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #ab8249;
+  margin-bottom: 3%;
+  margin-top: 5%;
+}
+
+h4 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+footer {
+  background-color: #ab8249;
+  padding: 3%;
+  text-align: center;
+}
+
+.footer-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2%;
+}
